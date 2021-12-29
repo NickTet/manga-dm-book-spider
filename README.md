@@ -7,8 +7,10 @@
 漫画、动漫、小说爬虫，可观看下载。樱花动漫、风之动漫、age 动漫、看动漫、ddm 动漫、mangabz、manga5、风之漫画、mangaacg、manga90、来漫画、狼雨漫画。后续会慢慢更新其他资源网站。
 
 # 使用方法
-
-下载依赖包。npm run dev 开启服务器，端口 9008。然后访问 http://localhost:9008/ 即可
+首先下载node，等待安装完成之后
+到这个文件的命令行，执行npm install
+等依赖包下载完毕之后，运行npm run dev开启服务器
+最后访问 http://localhost:9008/ 即可
 
 ## 漫画、动漫的下载完成界面
 
